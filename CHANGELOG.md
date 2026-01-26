@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2026-01-26)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`65ddf8d`](https://github.com/stdlib-js/stdlib/commit/65ddf8d4d51ccfda52d1c5a06408e43fb386c27e) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`7e8187a`](https://github.com/stdlib-js/stdlib/commit/7e8187a766886c2fb9cdc356cf781f0a1802172c) - **docs:** update related packages sections [(#3368)](https://github.com/stdlib-js/stdlib/pull/3368) _(by stdlib-bot)_
 
 </details>
@@ -19,6 +21,18 @@
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
